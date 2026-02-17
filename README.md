@@ -25,19 +25,26 @@ Chosen for its robust architecture and extensive community support, it handles t
 <img width="1089" height="779" alt="image" src="https://github.com/user-attachments/assets/6b6822fb-7d34-4966-b656-3da6f856936e" />
 
 
-🚀 Project Roadmap: From Basic to Advanced
-"This repository follows a structured learning path for Arduino development. Below is a comprehensive table of projects categorizing them by difficulty, key components, and core learning outcomes."
+## 🚀Project Roadmap: From Basic to Advanced
+"This repository follows a structured learning path for Arduino development. 
+Below is a comprehensive table of projects categorizing them by difficulty, key components, and core learning outcomes."
 Level	Project Name	Key Components	Learning Outcome
-Beginner	Blinking LED	LED, Resistor	Basics of Digital I/O and timing
-Beginner	Traffic Light System	3x LEDs, Push Button	Logic sequencing and user input
-Beginner	Smart Night Light	LDR (Photoresistor)	Analog-to-Digital conversion (ADC)
-Intermediate	Digital Thermometer	DHT11 Sensor, LCD 16x2	I2C Communication and data parsing
-Intermediate	Ultrasonic Radar	HC-SR04, Servo Motor	Distance calculation and PWM control
-Intermediate	RFID Door Lock	MFRC522 RFID, Solenoid	Security logic and SPI communication
-Advanced	Smart Plant Watering	Soil Sensor, Relay, Pump	Automated feedback loop systems
-Advanced	BT-Controlled Car	HC-05, L298N Motor Driver	Wireless communication & motor control
-Advanced	IoT Weather Station	ESP8266/ESP32, Sensors	Cloud data logging and API integration
-How to use this table:
-Beginner: Focus on understanding the syntax of C++ and basic circuits.
-Intermediate: Start working with external libraries and communication protocols like I2C/SPI.
-Advanced: Integrate wireless connectivity (Bluetooth/Wi-Fi) and complex motor synchronization.
+--------------------------------------------------------------------------------------------
+| #  | Project Name                 | Difficulty            | Components Needed                                | Description                                         |
+| -- | ---------------------------- | --------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| 1  | LED Blink                    | Beginner              | LED, Resistor                                    | Basic project to blink an LED using digital output. |
+| 2  | Traffic Light Controller     | Beginner              | 3 LEDs (Red, Yellow, Green), Resistors           | Simulates a real traffic light sequence.            |
+| 3  | Push Button LED Control      | Beginner              | LED, Push Button, Resistor                       | Turn LED on/off using a button.                     |
+| 4  | Temperature Monitor          | Beginner              | LM35 / DHT11 Sensor                              | Reads and displays temperature via Serial Monitor.  |
+| 5  | Ultrasonic Distance Meter    | Beginner–Intermediate | HC-SR04 Sensor                                   | Measures distance using ultrasonic waves.           |
+| 6  | Digital Thermometer with LCD | Intermediate          | DHT11/DHT22, 16x2 LCD                            | Displays temperature and humidity on LCD.           |
+| 7  | Smart Dustbin                | Intermediate          | Ultrasonic Sensor, Servo Motor                   | Lid opens automatically when hand is detected.      |
+| 8  | Obstacle Avoiding Robot      | Intermediate          | Ultrasonic Sensor, L298N Motor Driver, DC Motors | Robot avoids obstacles autonomously.                |
+| 9  | Bluetooth Controlled Car     | Intermediate          | HC-05 Bluetooth Module, Motor Driver             | Control robot car via smartphone.                   |
+| 10 | Home Automation System       | Intermediate          | Relay Module, Bluetooth/WiFi Module              | Control home appliances remotely.                   |
+| 11 | RFID Door Lock               | Intermediate          | RFID Module (RC522), Servo                       | Unlock door using RFID card.                        |
+| 12 | Weather Station              | Advanced              | DHT22, BMP180, LCD                               | Displays temperature, humidity, pressure.           |
+| 13 | IoT Web Server               | Advanced              | ESP8266 Module                                   | Host web server to control devices via browser.     |
+| 14 | Line Following Robot         | Advanced              | IR Sensors, Motor Driver                         | Robot follows a black line path.                    |
+| 15 | Voice Controlled Automation  | Advanced              | Bluetooth Module, Voice App                      | Control devices using voice commands.               |
+
