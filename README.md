@@ -19,3 +19,5 @@ The projects implementation is based on the ARDUINO_UNO
 3-Analog Sensing: High-resolution analog-to-digital conversion for accurate sensor readings.
 4-Connectivity: Seamless serial communication for debugging and data logging via USB.
 5-Memory Efficiency: Optimized code footprint to fit within the 32KB Flash memory constraints.
+
+<img width="1089" height="779" alt="image" src="https://github.com/user-attachments/assets/6b6822fb-7d34-4966-b656-3da6f856936e" />
