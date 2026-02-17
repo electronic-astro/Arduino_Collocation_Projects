@@ -1,9 +1,6 @@
-# 🗂️📒Arduino_Collocation_Projects, <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/9e1d2c70-7cd9-4244-8093-8ac22dd678ce" />
-
-
-
+# 🗂️📒Arduino_Collocation_Projects, 
 The projects implementation is based on the ARDUINO_UNO 
-
+<img width="266" height="189" alt="image" src="https://github.com/user-attachments/assets/ee526b24-6f6c-4f33-b4b8-832c01de897e" />
 
 
 ## 📌Simple & Clear (Recommended)
