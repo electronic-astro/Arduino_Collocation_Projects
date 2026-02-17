@@ -29,6 +29,7 @@ Chosen for its robust architecture and extensive community support, it handles t
 "This repository follows a structured learning path for Arduino development. 
 Below is a comprehensive table of projects categorizing them by difficulty, key components, and core learning outcomes."
 Level	Project Name	Key Components	Learning Outcome
+
 --------------------------------------------------------------------------------------------
 | #  | Project Name                 | Difficulty            | Components Needed                                | Description                                         |
 | -- | ---------------------------- | --------------------- | ------------------------------------------------ | --------------------------------------------------- |
